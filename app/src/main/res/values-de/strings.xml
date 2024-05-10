@@ -168,7 +168,7 @@
 
     <string name="wind_label">Wind</string>
     <string name="wind_bft_0">Ruhig</string>
-    <string name="wind_bft_1">Leichte Luft</string>
+    <string name="wind_bft_1">Leichter Luftzug</string>
     <string name="wind_bft_2">Leichte Brise</string>
     <string name="wind_bft_3">Sanfte Brise</string>
     <string name="wind_bft_4">Mäßige Brise</string>
