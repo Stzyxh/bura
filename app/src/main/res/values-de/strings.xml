@@ -12,8 +12,8 @@
 
 <resources>
     <string name="app_name">Bura</string>
-    <string name="general_error_failed_to_download">Der Download der Vorhersage ist fehlgeschlagen. Stellen Sie eine Internetverbindung her und versuchen Sie es erneut.</string>
-    <string name="general_error_outdated">Ihre Vorhersagedaten sind abgelaufen. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</string>
+    <string name="general_error_failed_to_download">Der Download der Wettervorhersage ist fehlgeschlagen. Stellen Sie eine Internetverbindung her und versuchen Sie es erneut.</string>
+    <string name="general_error_outdated">Ihre Wettervorhersagedaten sind abgelaufen. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</string>
     <string name="general_error_no_selected_place">Kein ausgewählter Ort.</string>
     <string name="general_btn_try_again">Erneut versuchen</string>
     <string name="general_btn_select_place">Ort auswählen</string>
